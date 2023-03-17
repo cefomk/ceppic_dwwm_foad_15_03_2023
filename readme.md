@@ -35,7 +35,7 @@ Afficher l'annee en cours suivi de votre **prenom** (2023 - xxx)
 - Creer une base donnee mysql nomme **astronomie**
 - Dans la base de donnee **astronomie** creer 2 tables
    - utilisateur (id_utilisateur,nom,prenom,pwd,email,role,created_at)
-   - article (id_article,titre,contenu,image_url,id_utilisateur,created_at)
+   - article (id_article,titre,contenu,image_url,id_utilisateur,created_at,modified_at)
 
 ### Fichier de traitement CRUD
 
